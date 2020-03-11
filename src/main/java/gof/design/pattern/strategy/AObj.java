@@ -5,7 +5,7 @@ public class AObj {
     Ainterface ainterface;
 
     public AObj() {
-        ainterface = new AinterfaceImli();
+        ainterface = new AinterfaceImpl();
     }
 
     //delegation

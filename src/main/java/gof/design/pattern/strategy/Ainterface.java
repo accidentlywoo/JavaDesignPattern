@@ -1,4 +1,4 @@
-package gof.design.pattern.pattern.strategy;
+package gof.design.pattern.strategy;
 
 public interface Ainterface {
     /*

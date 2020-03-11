@@ -1,4 +1,4 @@
-package gof.design.pattern.pattern.strategy.ex;
+package gof.design.pattern.strategy.ex;
 
 public class Ax implements Weapon {
     @Override

@@ -1,4 +1,4 @@
-package gof.design.pattern.pattern.strategy;
+package gof.design.pattern.strategy;
 class Main {
     public static void main(String[] args) {
         Ainterface ainterface = new AinterfaceImli();

@@ -1,4 +1,4 @@
-package gof.design.pattern.pattern.strategy.ex;
+package gof.design.pattern.strategy.ex;
 
 public class GameCharacter {
     // 접근점

@@ -1,12 +1,12 @@
 package gof.design.pattern.prototype.ex;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws CloneNotSupportedException {
         Cat navi = new Cat();
         navi.setName("navi");
 
-        // shallow copy
-        Cat yo = navi;
+        // deep copy
+        Cat yo = navi.copy();
         yo.setName("yo");
 
         System.out.println(navi.getName());
